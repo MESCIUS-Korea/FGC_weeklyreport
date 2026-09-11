@@ -7,9 +7,6 @@ Forguncy(노코드 플랫폼)로 구현한 **주간보고** 데모입니다.
 
 👉 [데모 실행하기](https://demo.forguncy.co.kr/weeklyreport)
 
-**로그인 정보**
-- 아이디: Admin
-- 비밀번호: 123456
 
 ## 📋 주요 기능
 
